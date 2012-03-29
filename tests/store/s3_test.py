@@ -1,4 +1,3 @@
-import gmailcompressor.filestore.s3store
 import unittest
 
 class S3StoreTestCase(unittest.TestCase):
